@@ -1,0 +1,6 @@
+execl,word,image转pdf程序
+
+诺转换异常，请检查是否安装OfficeSaveAsPDFandXPS
+
+需要安装office 2007 还有一个office2007的插件OfficeSaveAsPDFandXPS
+下载地址 http://www.microsoft.com/downloads/details.aspx?FamilyId=4D951911-3E7E-4AE6-B059-A2E79ED87041&displaylang=en
